@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html, body {
     width: 100%;
     height:100%;
@@ -21,6 +22,16 @@ html, body {
       }
   }
 
+=======
+.container {
+    background-image: url("https://chris-davisson.github.io/Chris/images/background_pictures/blue-wave.svg");
+    background-repeat: no-repeat;
+    background-size: cover;   
+    background-size: auto;
+    font-family: Roboto;
+    display: block;
+}
+>>>>>>> b55c48b4843cb295f8599788dd81b0713615c6e2
 
 .navbar {
     text-align: center;
